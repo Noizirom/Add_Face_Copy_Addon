@@ -1,6 +1,6 @@
 # Add_Face_Copy_Addon
 This Blender Addon is a simple tool to create a new object from selected faces. 
-For Blender 2.80+ !!!Warning!!! Install from the zip folder inside this folder, not the actual download or load the .py filt into the text editor and run script.
+For Blender 2.80+ !!!Warning!!! Install from the zip folder inside this folder, not the actual download or load the .py file into the text editor and run script.
 <OL>
 	<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Yu Gothic UI, sans-serif"><B>Select
 	desired faces from object in Edit Mode.</B></FONT></P>
